@@ -1,0 +1,15 @@
+{
+  "short_name": "Surau UTM",
+  "name": "Surau UTM In 5 Years",
+  "icons": [
+    {
+      "src": "/mosque.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
