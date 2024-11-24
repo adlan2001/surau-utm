@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "surau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama_surau": "Surau XB2", "fac_col": "KDOJ" }, "geometry": { "type": "Point", "coordinates": [ 103.617666816204377, 1.575436060928987 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau WA1", "fac_col": "KDSE" }, "geometry": { "type": "Point", "coordinates": [ 103.623974850894555, 1.566236251941998 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau WA5", "fac_col": "KDSE" }, "geometry": { "type": "Point", "coordinates": [ 103.624610646144447, 1.567383932292749 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau K01", "fac_col": "KTR" }, "geometry": { "type": "Point", "coordinates": [ 103.628416222258039, 1.562384821184877 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau K11", "fac_col": "KTR" }, "geometry": { "type": "Point", "coordinates": [ 103.626280922301987, 1.56398750572564 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau al-Mahabbah", "fac_col": "KTHO" }, "geometry": { "type": "Point", "coordinates": [ 103.632305870470773, 1.562751186705984 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau MA3", "fac_col": "KTDI" }, "geometry": { "type": "Point", "coordinates": [ 103.634990923137778, 1.567072719262068 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau MA1", "fac_col": "KTDI" }, "geometry": { "type": "Point", "coordinates": [ 103.633045442217977, 1.565938170100452 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau N28", "fac_col": "FC" }, "geometry": { "type": "Point", "coordinates": [ 103.637925236442342, 1.564036420085046 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau C02", "fac_col": "FABU" }, "geometry": { "type": "Point", "coordinates": [ 103.635587309591074, 1.560254581687849 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau B02", "fac_col": "FABU" }, "geometry": { "type": "Point", "coordinates": [ 103.636050362949717, 1.559206696094929 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau G01", "fac_col": "KRP" }, "geometry": { "type": "Point", "coordinates": [ 103.632849383455465, 1.557596457348609 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau G32", "fac_col": "KRP" }, "geometry": { "type": "Point", "coordinates": [ 103.630047418025569, 1.557180848126779 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau S38", "fac_col": "KTC" }, "geometry": { "type": "Point", "coordinates": [ 103.643077936582344, 1.556562358422194 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau S42", "fac_col": "KTC" }, "geometry": { "type": "Point", "coordinates": [ 103.648658222164201, 1.555315529899407 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau S01", "fac_col": "KTC" }, "geometry": { "type": "Point", "coordinates": [ 103.644817834947034, 1.554419309889989 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau U6", "fac_col": "KP" }, "geometry": { "type": "Point", "coordinates": [ 103.646885811542376, 1.559094422607597 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau al-Abrar", "fac_col": "Kolej 10" }, "geometry": { "type": "Point", "coordinates": [ 103.649814870340947, 1.56087405516223 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau H01", "fac_col": "KTF" }, "geometry": { "type": "Point", "coordinates": [ 103.631160716526225, 1.559954201002632 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau PRZS", "fac_col": "Cluster UTM" }, "geometry": { "type": "Point", "coordinates": [ 103.651310434167399, 1.563523311680947 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau T06", "fac_col": "Cluster UTM" }, "geometry": { "type": "Point", "coordinates": [ 103.655661165299023, 1.561916030801235 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau ATI", "fac_col": "Cluster UTM" }, "geometry": { "type": "Point", "coordinates": [ 103.65653209970128, 1.559863594361295 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau Student Mall", "fac_col": "Student Mall" }, "geometry": { "type": "Point", "coordinates": [ 103.634147903299592, 1.558738889858211 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau Arked Cengal", "fac_col": "Arked Cengal" }, "geometry": { "type": "Point", "coordinates": [ 103.632460221590264, 1.561675726446384 ] } },
+{ "type": "Feature", "properties": { "Nama_surau": "Surau Arked Meranti", "fac_col": "Arked Meranti" }, "geometry": { "type": "Point", "coordinates": [ 103.633971548935335, 1.55974738148952 ] } }
+]
+}
