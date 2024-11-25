@@ -1,9 +1,11 @@
 var map = L.map('map').setView([1.564, 103.638], 15);
 
+let githubAdlan = "adlan2001's GitHub";
+
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | \
-  <a href="https://www.flaticon.com/free-icons/mosque" title="mosque icons">Mosque icons by nawicon</a> | <a href="https://github.com/adlan2001" title="adlan2001 Github">adlan2001</a>'
+  attribution: `&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | \
+  <a href="https://www.flaticon.com/free-icons/mosque" title="mosque icons">Mosque icons by nawicon</a> | <a href="https://github.com/adlan2001/surau-utm" title="Adlan's Github">adlan2001</a>`
 }).addTo(map);
 
 const surauIcon = L.icon({
