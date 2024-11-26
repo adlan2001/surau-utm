@@ -1,13 +1,5 @@
 /* <uniquifier>: Use a unique and descriptive class name*/
 /* <weight>: Use a value from 300 to 800 */
-
-.parkinsans-font {
-  font-family: "Parkinsans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-}
-
 body {
   padding: 0;
   margin: 0;
