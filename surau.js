@@ -30,6 +30,8 @@ var surau = {
 { "type": "Feature", "properties": { "namaSurau": "Surau Arked Meranti", "facCol": "Arked Meranti" }, "geometry": { "type": "Point", "coordinates": [ 103.633971548935335, 1.55974738148952 ] } },
 { "type": "Feature", "properties": { "namaSurau": "Surau WA3 (closed)", "facCol": "KDSE" }, "geometry": { "type": "Point", "coordinates": [ 103.623586, 1.565684 ] } },
 { "type": "Feature", "properties": { "namaSurau": "Surau K06", "facCol": "KTR" }, "geometry": { "type": "Point", "coordinates": [ 103.628763, 1.561274 ] } },
-{ "type": "Feature", "properties": { "namaSurau": "Surau al-Ilmu", "facCol": "KTDI" }, "geometry": { "type": "Point", "coordinates": [ 103.635229, 1.564413 ] } }
+{ "type": "Feature", "properties": { "namaSurau": "Surau al-Ilmu", "facCol": "KTDI" }, "geometry": { "type": "Point", "coordinates": [ 103.635229, 1.564413 ] } },
+{ "type": "Feature", "properties": { "namaSurau": "Surau P19a", "facCol": "FKE" }, "geometry": { "type": "Point", "coordinates": [ 103.641468, 1.558083 ] } },
+{ "type": "Feature", "properties": { "namaSurau": "Surau P05", "facCol": "FKE" }, "geometry": { "type": "Point", "coordinates": [ 103.642807, 1.559683 ] } }
 ]
 }
